@@ -1,0 +1,4 @@
+Create SHH key
+
+>>> shh-keygen
+>>> ssh-copy-id -i /User/tharindu/.shh/ansible_demo.pub tharindu@34.91.155.12
